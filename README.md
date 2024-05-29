@@ -6,10 +6,10 @@
 
 I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
 
-- 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on a educational platform. Keep an eye for it.
-- 🌱 I’m currently learning Node backend
-- 👯 I’m looking to collaborate on opensource and group projects.
+- 💻 I ~like~ **love** Testing
+- 🔭 I’m currently working on a consult platform. Keep an eye for it.
+- 🌱 I’m currently learning Html
+- 👯 I hope to learn more knowledge
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
