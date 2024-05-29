@@ -20,10 +20,10 @@
 
 </div>
 
-## 🎵 Spotify 播放状态
+## 🎵 Music 播放状态
 
 <div align="center">
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Alvin.zeng)
+<script type="text/javascript" id="myhk" src="https://myhkw.cn/api/player/171634017499" key="171634017499" m="1"></script>
 
 </div>
