@@ -24,6 +24,6 @@
 
 <div align="center">
 
-  ![Spotify 播放状态](https://spotify-github-profile.vercel.app/api/view?uid=Alvin.zeng&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Alvin.zeng)
 
 </div>
