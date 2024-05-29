@@ -1,6 +1,6 @@
 # 🌟 小曾的House 🌟
 
-![欢迎](https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF5733&size=28&center=true&vCenter=true&width=500&height=50&lines=👋 欢迎来到我的 GitHub 个人主页！)
+![欢迎](https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF5733&size=28&center=true&vCenter=true&width=500&height=50&lines=👋%20欢迎来到我的%20GitHub%20个人主页%21)
 
 <div align="center">
 	<br>
@@ -8,7 +8,7 @@
 </div>
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ## 📊 我的 GitHub 统计信息
 
