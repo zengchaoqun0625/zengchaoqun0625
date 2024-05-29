@@ -1,6 +1,6 @@
 # 🌟 小曾的House 🌟
+<br>
 
-![欢迎](https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF5733&size=28&center=true&vCenter=true&width=500&height=50&lines=👋%20欢迎来到我的%20GitHub%20个人主页%21)
 
 <div align="center">
 	<br>
