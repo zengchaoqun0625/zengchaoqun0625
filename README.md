@@ -9,10 +9,8 @@
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<br>
-<br>
-<br>
-## 📊 我的 GitHub 统计信息
+
+# 📊 我的 GitHub 统计信息
 <br>
 <br>
 <div align="center">
