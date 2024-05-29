@@ -1,8 +1,8 @@
 # 🌟 小曾的House 🌟
 
-![描述](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=这是一个动态描述;用于展示项目的亮点;希望你喜欢!)
-
 ## 👋 欢迎来到我的 GitHub 个人主页！
+
+![欢迎](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FF00&size=24&center=true&vCenter=true&width=500&height=50&lines=欢迎来到我的+GitHub+个人主页！)
 
 <div align="center">
 	<br>
