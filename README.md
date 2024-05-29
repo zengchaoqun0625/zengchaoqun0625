@@ -2,10 +2,14 @@
 <br>
 
 
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
+### Hi there 👋
+
+I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
+
+- 💻 I ~like~ **love** coding
+- 🔭 I’m currently working on a educational platform. Keep an eye for it.
+- 🌱 I’m currently learning Node backend
+- 👯 I’m looking to collaborate on opensource and group projects.
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
