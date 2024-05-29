@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
+I am Alvin. 
 
 - 💻 I ~like~ **love** Testing
 - 🔭 I’m currently working on a consult platform. Keep an eye for it.
