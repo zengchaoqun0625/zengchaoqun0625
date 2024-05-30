@@ -1,13 +1,9 @@
-
-# 🌟 小曾的House 🌟
-<br>
-
-
 <div align="center">
-  <h3>Hi there 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" height="50"></h3>
+  <h1>🌟 小曾的House 🌟</h1>
 </div>
-<br>
 
+<br>
+![动态描述](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00F700&center=true&vCenter=true&width=435&lines=你好!;欢迎来到我的仓库!)
 
 - 💻 I ~like~ **love** Testing
 - 🔭 I’m currently working on a consult platform. Keep an eye for it.
