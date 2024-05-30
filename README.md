@@ -20,7 +20,7 @@
 
 <br>
 <div align="center">
-### ✨ 我的 GitHub 统计信息
+<h1> ✨ 我的 GitHub 统计信息</h1>h1>
 </div>
 
 <br>
