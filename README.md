@@ -19,7 +19,7 @@
 - 👯 I hope to learn more knowledge.
 </pre>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" height="200" align="right" alt="动态图">
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="100" height="100" align="right" alt="动态图">
 </div>
 
 
