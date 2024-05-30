@@ -21,8 +21,8 @@
 </div>
 
 <div align="center">
-<!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+  <!-- 将图片放在右侧 -->
+  <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </div>
 <br>
 
@@ -37,12 +37,12 @@
  
 </div>
 
-
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 ---
+
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 <br>
