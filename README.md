@@ -27,7 +27,7 @@
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zengchaoqun0625&hide_border=true&background=30,e96443,904e95&ring=fff&fire=fff&currStreakLabel=fff)<br>
  
- <img src="https://raw.githubusercontent.com/zengchaoqun0625/zengchaoqun0625/main/profile-summary-card-output/waves.svg" width="100%" alt="波浪展示的图形">
+ <img src="https://raw.githubusercontent.com/zengchaoqun0625/zengchaoqun0625/main/profile-summary-card-output/waves.svg" width="400px" alt="波浪展示的图形">
 
 
 </div>
