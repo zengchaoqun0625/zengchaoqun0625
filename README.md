@@ -3,6 +3,10 @@
 </div>
 
 <br>
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
 ![动态描述](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00F700&center=true&vCenter=true&width=435&lines=你好!;欢迎来到我的仓库!)
 
 - 💻 I ~like~ **love** Testing
