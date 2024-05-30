@@ -10,16 +10,23 @@
   </h3>
 </div>
 
+<div align="left">
+  
 - 💻 I ~like~ love Testing
 - 🔭 I’m currently working on a consult company.
 - 🌱 I’m currently learning Html
 - 👯 I hope to learn more knowledge
-<br>
+
+</div>
+
+<div align="right">
+
 - 💪 Don't just dream about success, work for it every day.
 - 🚀 Your limitations are just opportunities waiting to be explored.
 - 💡 Success is not final, failure is not fatal: It is the courage to continue that counts.
 - 🌟 Believe you can and you're halfway there.
 
+</div>
 <div align="center">
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
