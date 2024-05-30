@@ -20,9 +20,6 @@
 
 </div>
 
-
-
-
 <div align="center">
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
@@ -30,8 +27,6 @@
 <br>
 
 ## ✨ 我的 GitHub 统计信息
-
-
 <br>
 
 <div align="center">
@@ -42,7 +37,6 @@
  
 </div>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
