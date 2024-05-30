@@ -11,7 +11,7 @@
 </div>
 
 <div align="left">
-  
+
 - 💻 I ~like~ love Testing
 - 🔭 I’m currently working on a consult company.
 - 🌱 I’m currently learning Html
@@ -27,6 +27,7 @@
 - 🌟 Believe you can and you're halfway there.
 
 </div>
+
 <div align="center">
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
