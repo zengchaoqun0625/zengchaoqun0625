@@ -11,7 +11,7 @@
 </div>
 
 - 💻 I ~like~ **love** Testing
-- 🔭 I’m currently working on a consult platform. Keep an eye for it.
+- 🔭 I’m currently working on a consult company.
 - 🌱 I’m currently learning Html
 - 👯 I hope to learn more knowledge
 
