@@ -6,7 +6,7 @@
 
 <div align="left">
   <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=66FF99&size=24&width=435&lines=🌟HI,My Frineds🌟;😊Welcome to my house😊" alt="动态描述">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=66FF99&size=24&width=435&lines=🌟Hi,My frineds🌟;😊Welcome to my house😊" alt="动态描述">
   </h3>
 </div>
 
@@ -16,8 +16,8 @@
 <pre>
 - 💻 I ~like~ love Testing.
 - 🔭 I’m currently working on a consult company.
-- 🌱 I’m currently learning Html.
-- 👯 I hope to learn more knowledge.
+- 🌱 I’m currently learning more test knowledge.
+- 👯 I hope every day to be progress.
 </pre>
 </div>
 
