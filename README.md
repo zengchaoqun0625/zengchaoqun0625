@@ -15,14 +15,13 @@
 - 🌱 I’m currently learning Html
 - 👯 I hope to learn more knowledge
 
-<br>
-
+<div align="center">
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
+</div>
 <br>
 
-###✨ 我的 GitHub 统计信息
+#✨ 我的 GitHub 统计信息
 
 <br>
 
