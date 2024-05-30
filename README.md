@@ -6,7 +6,7 @@
 
 <div align="left">
   <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=#D0FDD4&size=24&width=435&lines=🌟HI,My Frineds🌟;😊Welcome to my house😊" alt="动态描述">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=D0FDD4&size=24&width=435&lines=🌟HI,My Frineds🌟;😊Welcome to my house😊" alt="动态描述">
   </h3>
 </div>
 
