@@ -12,12 +12,15 @@
 
 <div align="left">
 
-- 💻 I ~like~ love Testing                                    - 💪 Don't just dream about success, work for it every day.
-- 🔭 I’m currently working on a consult company.              - 🚀 Your limitations are just opportunities waiting to be explored.
-- 🌱 I’m currently learning Html                              - 💡 Success is not final, failure is not fatal: It is the courage to continue that counts.
-- 👯 I hope to learn more knowledge                           - 🌟 Believe you can and you're halfway there.
+<pre>
+- 💻 I ~like~ love Testing                      - 💪 Don't just dream about success, work for it every day.
+- 🔭 I’m currently working on a consult company.- 🚀 Your limitations are just opportunities waiting to be explored.
+- 🌱 I’m currently learning Html                - 💡 Success is not final, failure is not fatal: It is the courage to continue that counts.
+- 👯 I hope to learn more knowledge             - 🌟 Believe you can and you're halfway there.
+</pre>
 
 </div>
+
 
 
 
