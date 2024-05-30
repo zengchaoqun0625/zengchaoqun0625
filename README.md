@@ -14,6 +14,11 @@
 - 🔭 I’m currently working on a consult company.
 - 🌱 I’m currently learning Html
 - 👯 I hope to learn more knowledge
+<br>
+- 💪 Don't just dream about success, work for it every day.
+- 🚀 Your limitations are just opportunities waiting to be explored.
+- 💡 Success is not final, failure is not fatal: It is the courage to continue that counts.
+- 🌟 Believe you can and you're halfway there.
 
 <div align="center">
 <!-- Any image aligned to the right. Beware the width -->
@@ -21,7 +26,8 @@
 </div>
 <br>
 
-#✨ 我的 GitHub 统计信息
+## ✨ 我的 GitHub 统计信息
+
 
 <br>
 
