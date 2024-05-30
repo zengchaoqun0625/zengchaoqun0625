@@ -11,12 +11,10 @@
 </div>
 
 <div align="left">
-  <pre>
 - 💻 I ~like~ love Testing.                                  <img src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="70" height="70" align="right" alt="动态图">
 - 🔭 I’m currently working on a consult company.
 - 🌱 I’m currently learning Html.
 - 👯 I hope to learn more knowledge.
-  </pre>
 </div>
 
 
