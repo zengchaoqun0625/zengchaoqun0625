@@ -14,9 +14,9 @@
 
 <pre>
 - 💻 I ~like~ love Testing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 💪 Don't just dream about success, work for it every day.
-- 🔭 I’m currently working on a consult company.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🚀 Your limitations are just opportunities waiting to be explored.
-- 🌱 I’m currently learning Html&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp- 💡 Success is not final, failure is not fatal: It is the courage to continue that counts.
-- 👯 I hope to learn more knowledge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🌟 Believe you can and you're halfway there.
+- 🔭 I’m currently working on a consult company.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - 🚀 Your limitations are just opportunities waiting to be explored.
+- 🌱 I’m currently learning Html&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - 💡 Success is not final, failure is not fatal: It is the courage to continue that counts.
+- 👯 I hope to learn more knowledge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   - 🌟 Believe you can and you're halfway there.
 </pre>
 
 </div>
